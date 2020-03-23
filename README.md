@@ -1,2 +1,4 @@
 # maasglobal.github.io
-MaaS Global
+
+MaaS Global open resources, see https://maasglobal.github.io
+
